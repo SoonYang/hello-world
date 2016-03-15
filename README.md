@@ -1,4 +1,7 @@
 # hello-world
-Everyone needs a "Hello World" Project.
 
-//20160306 ADD
+###Everyone needs a "Hello World" Project.
+
+```
+Output('Hello');
+```
