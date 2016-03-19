@@ -11,6 +11,7 @@
 [程式碼](#title9)  
 [表情符號](#title10)  
 [表格](#title11)  
+[頁內連結](#title12)
   
 <a name="title1"/>
 ####標題
@@ -122,3 +123,10 @@ Row3|Cell13|Cell23|Cell33|Cell43
 Row4|Cell14|Cell24|Cell34|Cell44
 ```
 
+<a name="title12"/>
+####頁內連結
+```
+[頁內連結](#anchorname)
+
+<a name="anchorname"/>
+```
